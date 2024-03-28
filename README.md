@@ -18,25 +18,6 @@ Dependencies
 *   OpenCV (`cv2`)
 *   MediaPipe (`mediapipe`)
 
-Usage
------
-
-1.  Make sure you have Python installed on your system.
-2.  Install the required dependencies using pip:
-    
-    Copy code
-    
-    `pip install opencv-python mediapipe`
-    
-3.  Run the script:
-    
-    Copy code
-    
-    `python rep_counter.py`
-    
-4.  Position yourself in front of the camera and perform the exercise.
-5.  The program will display real-time feedback including the number of repetitions completed.
-
 Configuration
 -------------
 
